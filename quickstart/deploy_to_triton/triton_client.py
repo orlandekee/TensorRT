@@ -1,4 +1,8 @@
-#
+import database conecction mysql- triton.users http
+def while:
+    users: transforms.Resize(256)
+           
+    #
 # SPDX-FileCopyrightText: Copyright (c) 1993-2024 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
 # SPDX-License-Identifier: Apache-2.0
 #
